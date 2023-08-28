@@ -1,16 +1,50 @@
 header{
     width: 100%;
     height: 300px;
+    display: block;
 }
 
 h1{
-    background-color: white;
-    margin-left: 500px;
+    color: white;
+    margin-left: 410px;
     position: absolute;
+    margin-top: 105px;
 }
+
 
 main{
     width: 100%;
-    height: 800px;
+    height: 600px;
+    display: block;
+    background-color: rgb(221, 168, 99)
 
 }
+
+#bb{
+    margin-left: 250px;
+    color: white;
+    margin-top: 270px;
+}
+
+#aaa{
+    display: block;
+    width: 500px;
+    height:500px;
+    margin-left: 250px;
+}
+
+#ccc{
+    margin-left: 250px;
+    color: white;
+}
+
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: gray;
+}
+
+.dd{
+    text-align: center;
+}
+
